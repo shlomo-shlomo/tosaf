@@ -1,14 +1,14 @@
-%% אשראי
+%% אנציקלופדיות
 
-	לאומי כארד
-	https://www.max.co.il/
+	ויקיפדיה
+	https://he.wikipedia.org
 
-	ויזה כאל
-	https://www.cal-online.co.il/
-
-	ישראכרט
-	https://digital.isracard.co.il/
-	https://digital.isracard.co.il/statics/css/themes/Isracard/img/apple-touch-icon-iphone-60x60.png
+	המכלול
+	https://hamichlol.org.il
+	https://www.hamichlol.org.il/w/upload/michlol/thumb/8/80/%D7%A1%D7%9E%D7%9C_%D7%94%D7%9E%D7%9B%D7%9C%D7%95%D7%9C_%D7%92%D7%9E%D7%A8%D7%90_2.PNG/160px-%D7%A1%D7%9E%D7%9C_%D7%94%D7%9E%D7%9B%D7%9C%D7%95%D7%9C_%D7%92%D7%9E%D7%A8%D7%90_2.PNG
+	
+	האנציקלופדיה היהודית
+	https://jewiki.org.il
 
 	אמריקן אקספרס - ישראל
 	https://he.americanexpress.co.il/
