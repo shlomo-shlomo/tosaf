@@ -77,9 +77,6 @@
 
 %% בנקים
 
-	בנק אגוד
-	http://www.unionbank.co.il
-
 	בנק דיסקונט
 	https://www.discountbank.co.il/
 
